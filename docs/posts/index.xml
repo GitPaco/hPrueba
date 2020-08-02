@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Probando HUGO</title>
-    <link>http://example.org/posts/</link>
+    <link>https://gitpaco.github.io/hPrueba/posts/</link>
     <description>Recent content in Posts on Probando HUGO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sun, 02 Aug 2020 06:31:51 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gitpaco.github.io/hPrueba/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Primer Post</title>
-      <link>http://example.org/posts/primer-post/</link>
+      <link>https://gitpaco.github.io/hPrueba/posts/primer-post/</link>
       <pubDate>Sun, 02 Aug 2020 06:31:51 +0200</pubDate>
       
-      <guid>http://example.org/posts/primer-post/</guid>
+      <guid>https://gitpaco.github.io/hPrueba/posts/primer-post/</guid>
       <description></description>
     </item>
     

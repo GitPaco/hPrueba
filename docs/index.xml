@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Probando HUGO</title>
-    <link>http://example.org/</link>
+    <link>https://gitpaco.github.io/hPrueba/</link>
     <description>Recent content on Probando HUGO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sun, 02 Aug 2020 06:31:51 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gitpaco.github.io/hPrueba/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Primer Post</title>
-      <link>http://example.org/posts/primer-post/</link>
+      <link>https://gitpaco.github.io/hPrueba/posts/primer-post/</link>
       <pubDate>Sun, 02 Aug 2020 06:31:51 +0200</pubDate>
       
-      <guid>http://example.org/posts/primer-post/</guid>
+      <guid>https://gitpaco.github.io/hPrueba/posts/primer-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>http://example.org/contacto/</link>
+      <link>https://gitpaco.github.io/hPrueba/contacto/</link>
       <pubDate>Sun, 02 Aug 2020 06:12:03 +0200</pubDate>
       
-      <guid>http://example.org/contacto/</guid>
+      <guid>https://gitpaco.github.io/hPrueba/contacto/</guid>
       <description>Página de contacto</description>
     </item>
     
