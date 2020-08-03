@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contactos on Título/logo del sítio</title>
+    <link>https://gitpaco.github.io/hPrueba/contacto/</link>
+    <description>Recent content in Contactos on Título/logo del sítio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 02 Aug 2020 06:31:51 +0200</lastBuildDate>
+    
+	<atom:link href="https://gitpaco.github.io/hPrueba/contacto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://gitpaco.github.io/hPrueba/contacto/contacto/</link>
+      <pubDate>Sun, 02 Aug 2020 06:31:51 +0200</pubDate>
+      
+      <guid>https://gitpaco.github.io/hPrueba/contacto/contacto/</guid>
+      <description>Datos de contacto</description>
+    </item>
+    
+  </channel>
+</rss>

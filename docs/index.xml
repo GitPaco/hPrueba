@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Probando HUGO</title>
+    <title>Título/logo del sítio</title>
     <link>https://gitpaco.github.io/hPrueba/</link>
-    <description>Recent content on Probando HUGO</description>
+    <description>Recent content on Título/logo del sítio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sun, 02 Aug 2020 06:31:51 +0200</lastBuildDate>
@@ -12,21 +12,48 @@
     
     
     <item>
-      <title>Primer Post</title>
-      <link>https://gitpaco.github.io/hPrueba/posts/primer-post/</link>
+      <title>Contacto</title>
+      <link>https://gitpaco.github.io/hPrueba/contacto/contacto/</link>
       <pubDate>Sun, 02 Aug 2020 06:31:51 +0200</pubDate>
       
-      <guid>https://gitpaco.github.io/hPrueba/posts/primer-post/</guid>
-      <description></description>
+      <guid>https://gitpaco.github.io/hPrueba/contacto/contacto/</guid>
+      <description>Datos de contacto</description>
     </item>
     
     <item>
-      <title>Contacto</title>
-      <link>https://gitpaco.github.io/hPrueba/contacto/</link>
-      <pubDate>Sun, 02 Aug 2020 06:12:03 +0200</pubDate>
+      <title>LogoZone</title>
+      <link>https://gitpaco.github.io/hPrueba/logopedia/blog_logo/primer_post_logo/</link>
+      <pubDate>Sun, 02 Aug 2020 06:31:51 +0200</pubDate>
       
-      <guid>https://gitpaco.github.io/hPrueba/contacto/</guid>
-      <description>Página de contacto</description>
+      <guid>https://gitpaco.github.io/hPrueba/logopedia/blog_logo/primer_post_logo/</guid>
+      <description>Primer post área logo&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>LogoZone</title>
+      <link>https://gitpaco.github.io/hPrueba/logopedia/blog_logo/segundo_post_logo/</link>
+      <pubDate>Sun, 02 Aug 2020 06:31:51 +0200</pubDate>
+      
+      <guid>https://gitpaco.github.io/hPrueba/logopedia/blog_logo/segundo_post_logo/</guid>
+      <description>Segundo post área logo&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>PrimaZone</title>
+      <link>https://gitpaco.github.io/hPrueba/primaria/blog_primaria/primer_post_primaria/</link>
+      <pubDate>Sun, 02 Aug 2020 06:31:51 +0200</pubDate>
+      
+      <guid>https://gitpaco.github.io/hPrueba/primaria/blog_primaria/primer_post_primaria/</guid>
+      <description>Primer post área primaria</description>
+    </item>
+    
+    <item>
+      <title>PrimaZone</title>
+      <link>https://gitpaco.github.io/hPrueba/primaria/blog_primaria/segundo_post_primaria/</link>
+      <pubDate>Sun, 02 Aug 2020 06:31:51 +0200</pubDate>
+      
+      <guid>https://gitpaco.github.io/hPrueba/primaria/blog_primaria/segundo_post_primaria/</guid>
+      <description>Segundo post área primaria.</description>
     </item>
     
   </channel>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logopedia on Título/logo del sítio</title>
+    <link>https://gitpaco.github.io/hPrueba/logopedia/</link>
+    <description>Recent content in Logopedia on Título/logo del sítio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 02 Aug 2020 06:31:51 +0200</lastBuildDate>
+    
+	<atom:link href="https://gitpaco.github.io/hPrueba/logopedia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LogoZone</title>
+      <link>https://gitpaco.github.io/hPrueba/logopedia/blog_logo/primer_post_logo/</link>
+      <pubDate>Sun, 02 Aug 2020 06:31:51 +0200</pubDate>
+      
+      <guid>https://gitpaco.github.io/hPrueba/logopedia/blog_logo/primer_post_logo/</guid>
+      <description>Primer post área logo&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>LogoZone</title>
+      <link>https://gitpaco.github.io/hPrueba/logopedia/blog_logo/segundo_post_logo/</link>
+      <pubDate>Sun, 02 Aug 2020 06:31:51 +0200</pubDate>
+      
+      <guid>https://gitpaco.github.io/hPrueba/logopedia/blog_logo/segundo_post_logo/</guid>
+      <description>Segundo post área logo&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

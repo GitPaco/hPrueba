@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primaria on Título/logo del sítio</title>
+    <link>https://gitpaco.github.io/hPrueba/primaria/</link>
+    <description>Recent content in Primaria on Título/logo del sítio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 02 Aug 2020 06:31:51 +0200</lastBuildDate>
+    
+	<atom:link href="https://gitpaco.github.io/hPrueba/primaria/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PrimaZone</title>
+      <link>https://gitpaco.github.io/hPrueba/primaria/blog_primaria/primer_post_primaria/</link>
+      <pubDate>Sun, 02 Aug 2020 06:31:51 +0200</pubDate>
+      
+      <guid>https://gitpaco.github.io/hPrueba/primaria/blog_primaria/primer_post_primaria/</guid>
+      <description>Primer post área primaria</description>
+    </item>
+    
+    <item>
+      <title>PrimaZone</title>
+      <link>https://gitpaco.github.io/hPrueba/primaria/blog_primaria/segundo_post_primaria/</link>
+      <pubDate>Sun, 02 Aug 2020 06:31:51 +0200</pubDate>
+      
+      <guid>https://gitpaco.github.io/hPrueba/primaria/blog_primaria/segundo_post_primaria/</guid>
+      <description>Segundo post área primaria.</description>
+    </item>
+    
+  </channel>
+</rss>
