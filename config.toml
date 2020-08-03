@@ -1,18 +1,30 @@
 baseURL = "https://gitpaco.github.io/hPrueba/"
 languageCode = "es"
-title = "Probando HUGO"
+title = "Título/logo del sítio"
 theme = "tale"
+
+[Author]
+  name="Creado por FFdev"
 
 [menu]
   [[menu.main]]
     identifier = "contacto"
-    name = "contacto"
-    title = "Contacto"
+    name = "Contacto"
+    title = "contacto"
     url = "/contacto/"
+    weigth = 0
+  [[menu.main]]
+    identifier = "logopedia"
+    name = "Logopedia"
+    title = "Logopedia"
+    url = "/logopedia/"
     weight = 0
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    title = "Posts"
-    url = "/posts/"
+    identifier = "primaria"
+    name = "Primaria"
+    title = "primaria"
+    url = "/primaria/"
     weigth = 0
+
+[params]
+  css= ["css/estilos.css"]

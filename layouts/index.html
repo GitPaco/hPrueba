@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+<main>
+	{{ partial "index/introduction.html" . }}
+
+	<div class="catalogue">
+	
+			
+		
+	</div>
+	
+	<div class="catalogue">
+            <a href="{{.Site.BaseURL}}logopedia">
+                <h2>ÁREA DE LOGOPEDIA</h2>
+                <img src="{{.Site.BaseURL}}images/logope.jpg" alt="">
+            </a>   		
+	</div>
+	
+	<div class="catalogue">
+            <a href="{{.Site.BaseURL}}primaria">
+                <h2>ÁREA DE PRIMARIA</h2>
+                <img src="{{.Site.BaseURL}}images/primaria3.jpg" alt="">
+            </a>   		
+	</div>	
+	
+
+	<div class="pagination">
+		{{ if .Paginator.HasPrev }}
+			<a href="{{ .Paginator.Prev.URL }}" class="left arrow">&#8592;</a>
+		{{ end }}
+		{{ if .Paginator.HasNext }}
+			<a href="{{ .Paginator.Next.URL }}" class="right arrow">&#8594;</a>
+		{{ end }}
+
+	       <!--	<span>{{ .Paginator.PageNumber }}</span>-->
+	</div>
+</main>
+
+{{ end }}
